@@ -1,0 +1,20 @@
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Release/ClarionSimulation.gtk-gui.gui.stetic
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/ClarionLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/gdk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Release/ClarionSimulation.gtk-gui.gui.stetic
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/ClarionLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/gdk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Release/WorldServerLibrary.dll.mdb

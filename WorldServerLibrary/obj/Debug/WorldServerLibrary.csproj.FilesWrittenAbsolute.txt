@@ -1,0 +1,15 @@
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/WorldServerLibrary/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/obj/Debug/WorldServerLibrary.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/WorldServerLibrary/bin/Debug/WorldServerLibrary.dll

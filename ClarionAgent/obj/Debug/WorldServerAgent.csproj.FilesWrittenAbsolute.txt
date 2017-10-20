@@ -1,0 +1,30 @@
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Debug/ClarionSimulation.gtk-gui.gui.stetic
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/ClarionLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Debug/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/obj/Debug/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionAgent/bin/Debug/gtk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionSimulation.gtk-gui.gui.stetic
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/gdk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/WorldServerLibrary.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionSimulation.gtk-gui.gui.stetic
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionAgent.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionAgent.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionAgent.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/obj/Debug/ClarionAgent.dll.mdb
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/ClarionLibrary.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/gdk-sharp.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/WorldServerLibrary.dll
+/Users/du/Documentos Locais/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionAgent/bin/Debug/WorldServerLibrary.dll.mdb

@@ -1,0 +1,26 @@
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/ClarionDEMO.exe
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/obj/Release/ClarionDEMO.exe
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/ClarionLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/gtk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/glib-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/gtk-dotnet.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/gdk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/SimulationCLARION 2/ClarionDEMO/bin/Release/atk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/ClarionDEMO.exe
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/obj/Release/ClarionDEMO.exe
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/glib-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/gtk-dotnet.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/gtk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/gdk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/atk-sharp.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/ClarionAgent.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/ClarionAgent.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/WorldServerLibrary.dll
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/WorldServerLibrary.dll.mdb
+/Users/Du/Documents/Faculdades/Unicamp/Topicos em Computacao 2/Clarion/EduardoFroesCLARION/ClarionDEMO/bin/Release/ClarionLibrary.dll

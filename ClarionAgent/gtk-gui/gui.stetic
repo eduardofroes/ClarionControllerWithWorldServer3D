@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="../bin/Debug/ClarionAgent.dll" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="ClarionSimulation.Mind" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">Window</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <widget class="Gtk.Expander" id="expander1">
+        <property name="MemberName" />
+        <property name="CanFocus">True</property>
+        <property name="Expanded">True</property>
+        <child>
+          <placeholder />
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="GtkLabel">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Hello World</property>
+            <property name="UseUnderline">True</property>
+          </widget>
+          <packing>
+            <property name="type">label_item</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+  <widget class="Gtk.Window" id="ClarionSimulation.Mind" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">Mind</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <placeholder />
+    </child>
+  </widget>
+</stetic-interface>

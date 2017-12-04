@@ -46,8 +46,8 @@ namespace ClarionDEMO
 			agent.OnNewVisualSensorialInformation += new InputVisualSensorialInformationEventHandler(agent_OnNewVisualSensorialInformation);
 			agent.OnNewExternalActionSelected += new OutputActionChunkEventHandler(agent_OnNewExternalActionSelected);
 
-			fileCreatureScore = File.CreateText ("../../reportFiles/Clarion_Score" + DateTime.Now.ToString ("yyyyMMdd_HHmmss") + ".txt");
-			fileEnergySpent = File.CreateText ("../../reportFiles/Clarion_EnergySpent" + DateTime.Now.ToString ("yyyyMMdd_HHmmss") + ".txt");
+			fileCreatureScore = File.CreateText ("./reportFiles/Clarion_Score" + DateTime.Now.ToString ("yyyyMMdd_HHmmss") + ".txt");
+			fileEnergySpent = File.CreateText ("./reportFiles/Clarion_EnergySpent" + DateTime.Now.ToString ("yyyyMMdd_HHmmss") + ".txt");
 
 			creatureEnergySpent = new List<Result> ();
 			creatureScore = new List<Result> ();
@@ -114,7 +114,7 @@ namespace ClarionDEMO
 			while (flag) {
 				
 				if ((counter /60) == 1) {
-					//generateFoods(1);
+					generateFoods(1);
 					generateJewels(3);
 					counter = 0;
 				}
@@ -136,6 +136,9 @@ namespace ClarionDEMO
 			
 				Thread.Sleep (1000);
 			}
+
+
+			System.Environment.Exit(0);
 		}
 
 		private void reportCreatureScore(double time) {
